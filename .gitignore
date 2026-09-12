@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+fraud_detection.db
+node_modules/
+frontend/dist/
+frontend-old/
